@@ -1,44 +1,30 @@
-Ben **4. sınıf Bilgisayar Mühendisliği öğrencisi**yim ve Frontend geliştirme ile ilgileniyorum.  
-Hedefim ise güçlü bir **Full Stack Developer** olmak! 🚀  
-Şu an aktif olarak **HTML**, **CSS**, **Tailwind**, **Bootstrap**, **React**, **JavaScript** ve **TypeScript** ile projeler geliştiriyorum.
+<h3 align="center">A passionate frontend developer from India</h3>
 
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=furkancizreli21&label=Profile%20views&color=0e75b6&style=flat" alt="furkancizreli21" /> </p>
 
-## 🚀 Portföy ve Projelerim
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=furkancizreli21" alt="furkancizreli21" /></a> </p>
 
-- [**Burgers**](https://github.com/Furkancizreli21/Burgers)  
-  🍔 Kendi ellerimle geliştirdiğim hamburger sipariş uygulaması!
+- 🔭 I’m currently working on **BeanoraCoffee**
 
-- [**Portfolio**](https://github.com/Furkancizreli21/Portfolio)  
-  🧑‍💻 Kendi portföyümü oluşturduğum kişisel web sitesi.
+- 🌱 I’m currently learning **Advanced React patterns, Redux, and TypeScript**
 
----
+- 🤝 I’m looking for help with **Improving DevOps practices and CI/CD pipelines**
 
-## 💻 Kullandığım Teknolojiler
+- 👨‍💻 All of my projects are available at [github.com/Furkancizreli21](github.com/Furkancizreli21)
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=fff)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=fff)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=222)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=222)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)
+- 💬 Ask me about **JavaScript and React development**
 
----
+- 📫 How to reach me **furkan-cizreli@hotmail.com**
 
-## 📫 İletişim
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/furkan cizreli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="furkan cizreli" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/furkan_cizreli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="furkan_cizreli" height="30" width="40" /></a>
+</p>
 
-- [LinkedIn](https://www.linkedin.com/in/furkan-cizreli-56496b270/)
-- 📧 E-posta: furkan-cizreli@hotmail.com
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=furkancizreli21&show_icons=true&locale=en&layout=compact" alt="furkancizreli21" /></p>
 
-## 📝 Hakkımda Kısa Bir Söz
-
-> **“Her gün bir adım daha ileri!”**  
-> Kod yazarken en büyük motivasyonum: Sürekli öğrenmek ve gelişmek.
-
----
-
-**Profilime göz attığın için teşekkürler!**  
-Daha fazlası için projelerime bakmayı unutma. 🚀
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=furkancizreli21&show_icons=true&locale=en" alt="furkancizreli21" /></p>
