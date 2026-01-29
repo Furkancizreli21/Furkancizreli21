@@ -1,16 +1,6 @@
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-
-
-- 🔭 I’m currently working on **BeanoraCoffee**
-
-- 🌱 I’m currently learning **Advanced React patterns, Redux, and TypeScript**
-
-- 🤝 I’m looking for help with **Improving DevOps practices and CI/CD pipelines**
-
 - 👨‍💻 All of my projects are available at [github.com/Furkancizreli21](github.com/Furkancizreli21)
-
-- 💬 Ask me about **JavaScript and React development**
 
 - 📫 How to reach me **furkan-cizreli@hotmail.com**
 
